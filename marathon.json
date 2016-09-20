@@ -1,4 +1,7 @@
 {
+    "uris": [
+     "file:///home/core/.dockercfg"
+    ],
     "container": {
         "docker": {
             "image": "gurulearningxyz/cd-demo-app:latest",
