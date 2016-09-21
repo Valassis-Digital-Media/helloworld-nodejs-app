@@ -32,7 +32,7 @@ node {
 
 
     // Test Docker image
-    //stage 'Test'
+    stage 'Test'
     //sh "docker run -d --name=test-container-${env.BUILD_NUMBER} quay.io/valassis/helloworld-nodejs-app:${gitCommit()}"
     //sh "docker run mesosphere/linkchecker linkchecker --no-warnings http://${ipAddress()}:4000/"
 
