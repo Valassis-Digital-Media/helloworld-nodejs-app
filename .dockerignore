@@ -1,0 +1,12 @@
+./node_modules
+./.eslintrc
+./.gitignore
+./.git
+./.idea
+./.npm
+./README.md
+*/coverage
+*/doc
+*/tests
+./Jenkinsfile
+./marathon.json
